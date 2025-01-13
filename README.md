@@ -1,6 +1,3 @@
-A detailed **step-by-step guide** for your GitHub README, breaking down the processes for EC2, WinSCP, and Putty integration for Spark Cluster setup and Word Count operation, is outlined below:
-
----
 
 # AWS Spark Cluster Setup and Word Count (EC2 and EMR)
 
