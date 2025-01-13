@@ -151,6 +151,7 @@ This project includes:
 3. **Run Word Count**:
    - Transfer files to `/home/hadoop` using WinSCP.
    - Execute Spark commands for Word Count.
+![image](https://github.com/user-attachments/assets/80165ef0-9abe-427e-9bca-9fb6db3021cd)
 
 ---
 
@@ -159,9 +160,12 @@ This project includes:
 - **EC2 with Python**:
   - Successfully processed small datasets.
   - Higher processing time for larger datasets (1GB and above).
+  ![image](https://github.com/user-attachments/assets/6aadc12c-4749-4d15-93bf-4c49e56323c0)
+
 - **EMR with Spark**:
   - Demonstrated scalability and efficiency for big data processing.
   - Optimized processing time using distributed computing.
+![image](https://github.com/user-attachments/assets/06426ffd-30e5-4db6-acf4-22a192359ce7)
 
 ---
 
